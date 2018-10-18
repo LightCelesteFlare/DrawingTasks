@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DrawingAssignment</string>
+
+    <string name="DrawTitle">Lets draw</string>
+
+    <string name="Task1">Task 1</string>
+    <string name="Task2">Task 2</string>
+    <string name="Task3">Task 3</string>
+
+    <string name="Clear">Clear</string>
+    <string name="Back">Back</string>
+
+    <string name="Start">Start</string>
+    <string name="End">End</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+
+    <string name="TxtViewSize">px Sizes</string>
+</resources>
